@@ -1,6 +1,6 @@
 # 🌌 Astronomical Object Classification Using Machine Learning on SDSS17 Data
 
-> CSC1181 – Foundations of Statistical Analysis & Machine Learning | Dublin City University | 2025 Autumn
+> CSC1181 – Foundations of Statistical Analysis & Machine Learning | 2025 Autumn | Dublin City University
 
 ## Overview
 
