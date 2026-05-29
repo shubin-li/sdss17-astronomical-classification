@@ -15,7 +15,7 @@ This project applies machine learning to classify astronomical objects (Stars, G
 | Random Forest | 95.87% | 95.88% |
 | KNN | 89.78% | 89.49% |
 | SVM | 93.13% | 92.97% |
-| Gradient Boosting | 97.37% | 97.32% |
+| **Gradient Boosting** | **97.37%** | **97.32%** |
 | AdaBoost | 91.53% | 91.76% |
 | **XGBoost** | **97.33%** | **97.30%** |
 
